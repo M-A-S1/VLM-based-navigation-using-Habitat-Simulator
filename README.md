@@ -1,7 +1,5 @@
 # Habitat-VLM-Navigation
 
-![Project Banner](docs/images/banner.png)
-
 A GUI-based robot navigation system using Habitat Lab and Vision-Language Models (VLMs). This project lets you launch a Habitat Lab simulator, select a goal image, fetch the current view from the simulator, and prompt a VLM (or a set of VLMs) to decide the next movement step. The robot then executes that command in the Habitat environment.  
 
 ---
