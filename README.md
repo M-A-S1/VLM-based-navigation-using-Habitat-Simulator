@@ -104,7 +104,7 @@ This approach allows researchers, developers, and hobbyists to quickly prototype
 
   <!-- Replace with your actual video file path or a link to YouTube/GitHub release -->
   <video width="640" height="360" controls>
-    <source src="docs/videos/demo.mp4" type="video/mp4">
+    <source src="https://youtu.be/HgwTckcfxbg" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </details>
