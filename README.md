@@ -97,17 +97,9 @@ This approach allows researchers, developers, and hobbyists to quickly prototype
 
 ---
 
-### Short Video Walkthrough
+### Demo Video
 
-<details>
-  <summary>▶️ Click to expand video demo (highlights end-to-end flow)</summary>
-
-  <!-- Replace with your actual video file path or a link to YouTube/GitHub release -->
-  <video width="640" height="360" controls>
-    <source src="https://youtu.be/HgwTckcfxbg" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</details>
+[![Watch the video](https://img.youtube.com/vi/HgwTckcfxbg/maxresdefault.jpg)](https://youtu.be/HgwTckcfxbg)
 
 ---
 
